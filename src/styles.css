@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 h1 {
-  /* color: hotpink; */
+  color: hotpink;
   font-family: cursive;
 }
